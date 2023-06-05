@@ -57,7 +57,7 @@ public class Constants
     public static final String MC_JAR_URL       = "http://s3.amazonaws.com/Minecraft.Download/versions/{MC_VERSION}/{MC_VERSION}.jar";
     public static final String MC_SERVER_URL    = "http://s3.amazonaws.com/Minecraft.Download/versions/{MC_VERSION}/minecraft_server.{MC_VERSION}.jar";
     public static final String MCP_URL          = "http://files.minecraftforge.net/fernflower_temporary.zip";
-    public static final String ASSETS_URL       = "http://resources.download.minecraft.net";
+    public static final String ASSETS_URL       = "https://resources.download.minecraft.net";
     public static final String LIBRARY_URL      = "https://libraries.minecraft.net/";
     public static final String FORGE_MAVEN      = "http://files.minecraftforge.net/maven";
     public static final String ASSETS_INDEX_URL = "https://s3.amazonaws.com/Minecraft.Download/indexes/{ASSET_INDEX}.json";
